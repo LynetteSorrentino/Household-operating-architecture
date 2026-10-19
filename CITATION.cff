@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Household Operating Architecture"
+type: dataset
+authors:
+  - family-names: Sorrentino
+    given-names: Lynette
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2024-10-15
+license: CC-BY-NC-4.0
+abstract: >
+  The canonical architecture, frameworks, and intellectual property for Household Operating Architecture. Defines the category of autonomous household systems, The Table Method, and Flo: The Household Operating System.
+keywords:
+  - household-architecture
+  - family-systems
+  - the-table-method
+  - flo-operating-system
+  - capacity-restoration
